@@ -1,2 +1,0 @@
-# maquettepolex
-Created with CodeSandbox
