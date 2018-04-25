@@ -12,8 +12,8 @@ import {
   DropdownMenu
 } from "reactstrap";
 
-//import "bootstrap/dist/css/bootstrap.css";
-//import "font-awesome/css/font-awesome.min.css";
+import "bootstrap/dist/css/bootstrap.css";
+import "font-awesome/css/font-awesome.min.css";
 
 import Login from "./Login/Login";
 import DashboardContainer from "./DashBoard/DashboardContainer";
